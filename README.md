@@ -1,6 +1,8 @@
-# Embedded C Programming Examples with Continuous Integration and Code Quality
+# embC
 
-# CI and Code Quality
+## This repositry was made in the sole purpose of submission of out embedded C activities.
+
+### CASE STUDY
 
 |CppCheck                   |      Build                |     Codacy     |                                       
 |--------                   |-------------------------- |-------         |
