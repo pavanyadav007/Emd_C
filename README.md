@@ -1,6 +1,6 @@
 # embC
 
-## This repositry was made in the sole purpose of submission of out embedded C activities.
+## This repositry was made in the sole purpose of submission of out embedded C activities
 
 ### CASE STUDY
 
