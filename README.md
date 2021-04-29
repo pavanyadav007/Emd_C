@@ -2,8 +2,6 @@
 
 # CI and Code Quality
 
-|Build|Cppcheck|Codacy|
-|:--:|:--:|:--:|
-[![Compile-Linux](https://github.com/pavanyadav007/Emd_C/actions/workflows/Compile.yml/badge.svg)](https://github.com/pavanyadav007/Emd_C/actions/workflows/Compile.yml)
-[![Cppcheck](https://github.com/pavanyadav007/Emd_C/actions/workflows/CodeQulaity.yml/badge.svg)](https://github.com/pavanyadav007/Emd_C/actions/workflows/CodeQulaity.yml)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a3ce929d5764402c9845291b0b054f25)](https://www.codacy.com/gh/pavanyadav007/Emd_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pavanyadav007/Emd_C&amp;utm_campaign=Badge_Grade)
+|CppCheck                   |      Build                |     Codacy     |                                       
+|--------                   |-------------------------- |-------         |
+|[![Cppcheck](https://github.com/Vyaskaushik-vyas/embC-261625/actions/workflows/CodeQulaity.yml/badge.svg)](https://github.com/Vyaskaushik-vyas/embC-261625/actions/workflows/CodeQulaity.yml)|[![Compile-Linux](https://github.com/Vyaskaushik-vyas/embC-261625/actions/workflows/Compile.yml/badge.svg)](https://github.com/Vyaskaushik-vyas/embC-261625/actions/workflows/Compile.yml)|[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d37afe019d8b454390e21659116e72f4)](https://app.codacy.com/gh/Vyaskaushik-vyas/embC-261625?utm_source=github.com&utm_medium=referral&utm_content=Vyaskaushik-vyas/embC-261625&utm_campaign=Badge_Grade_Settings)
