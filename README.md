@@ -10,7 +10,7 @@
 
 
 ### Activity 1
-![image](https://user-images.githubusercontent.com/80807460/116388970-0b888d00-a83a-11eb-8a01-7e001bc0fade.png)
+![image](https://github.com/pavanyadav007/Emd_C/blob/main/simulation/Activity_1.png)
 
 ### Activity 2
 
