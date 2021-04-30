@@ -1,6 +1,6 @@
 # embC 
 
-## This repositry was made in the sole purpose of submission of out embedded C activities
+## This project is about a seat heating system that is designed in such a way that if a person is seated on a automotive vehicle then, he/she can control the tempratire of the seat
 
 ### CASE STUDY
 
