@@ -21,4 +21,4 @@
 ![image](https://github.com/pavanyadav007/Emd_C/blob/main/simulation/Activity_3.png)
 
 ### Activity 4
-![image](https://user-images.githubusercontent.com/80807460/116504318-a1bdc100-a8d5-11eb-9878-0553ea923c6a.png)
+![image](https://github.com/pavanyadav007/Emd_C/blob/main/simulation/Activity_4.png)
